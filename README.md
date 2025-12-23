@@ -7,3 +7,7 @@ https://nbviewer.org/github/bernspe/ICFx_Statistics/blob/main/icf_coverage_simul
 ## Auswertung des ersten Teils der Raupennest Studie
 Multilaterales Assessment von Partizipationsstörungen von Patienten. Wie unterscheidet sich das Assessment von Selbsteinschätzung Patient vs. Behandler.
 https://nbviewer.org/github/bernspe/ICFx_Statistics/blob/main/Auswertung-Raupennest-Whodas-ICF-Part1.ipynb
+
+## Auswertung der Kontextfaktoren in der Raupennest Studie
+Untersuchung der Kontextfaktoren als Screening mit nachgeschalteter ICF Item Konkretisierung.
+https://nbviewer.org/github/bernspe/ICFx_Statistics/blob/main/Umwelt-ICF.ipynb
